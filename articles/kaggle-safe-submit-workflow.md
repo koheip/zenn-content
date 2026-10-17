@@ -2,7 +2,7 @@
 title: "Kaggleの作業で「うっかり提出」をなくす：Kaggle CLIと確認ラッパーと、本番と同じハードで測る話"
 emoji: "🛡️"
 type: "tech"
-topics: ["kaggle", "python", "cli", "machinelearning", "自動化"]
+topics: ["kaggle", "python", "cli", "machinelearning", "automation"]
 published: true
 ---
 
