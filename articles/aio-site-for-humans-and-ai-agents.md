@@ -1,5 +1,5 @@
 ---
-title: "人間にもAIエージェントにも読まれるサイトを作る：AIO入門（セマンティックHTML・JSON-LD・robots.txt・llms.txt）"
+title: "人間にもAIにも読まれるサイトを作る：AIO入門（セマンティックHTML・JSON-LD・robots.txt・llms.txt）"
 emoji: "🧭"
 type: "tech"
 topics: ["aiagent", "seo", "html", "webdev", "llm"]
