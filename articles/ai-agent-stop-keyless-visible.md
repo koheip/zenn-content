@@ -3,7 +3,7 @@ title: "AIエージェントに仕事を任せるための3つの道具を作っ
 emoji: "🐦‍⬛"
 type: "tech"
 topics: ["aiagent", "claudecode", "python", "go", "typescript"]
-published: false
+published: true
 ---
 
 ## はじめに
