@@ -6,8 +6,6 @@ topics: ["aiagent", "claudecode", "codex", "llm", "aidev"]
 published: true
 ---
 
-<!-- 公開時のファイル名（slug）案: from-building-to-delegating-agents.md （12〜50文字、英小文字とハイフン） -->
-
 ## はじめに
 
 ZEN大学で知能情報を学んでいる2年生の松延です。AIエンジニアを目指して、AIエージェントの個人開発を続けています。
